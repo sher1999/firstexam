@@ -1,0 +1,60 @@
+*{
+    padding: 0px ;
+    margin: 0px ;
+}
+
+
+ .nabbar  {
+    display: flex;
+    justify-content: space-between;
+ }
+
+ .navbar ul {
+   display: flex;
+   list-style-type: none;
+ padding: 12px ;
+ background-color: #F44336;
+}
+.navbar ul li a{
+    padding: 12px 24px;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+
+.home{
+    background-color: white;
+    padding: 12px 30px ;
+}
+.redd{
+    padding: 128px 16px;
+    color: #fff!important;
+    background-color: #f44336!important;
+    text-align: center;
+    
+}
+.start{
+    line-height: 1.5;
+    font-size: 60px; 
+    font-weight: 400;  
+}
+.temp{
+    font-size: 24px;
+    margin: 24px;
+}
+
+.Get{
+  margin-top: 16px;
+  padding: 13px 24px;
+  background-color: black;
+  color: white;
+
+
+}
+.Get:hover{
+    background-color: rgb(186, 199, 186);
+    color :black
+}
+
+ 
+
